@@ -68,6 +68,9 @@ body {
 .light {
 	background-color: #fff;
 }
+.pink {
+	background-color: rgb(221, 157, 167);
+}
 .container.dark .main {
 	background-color: #333333;
 }
